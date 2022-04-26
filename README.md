@@ -13,3 +13,9 @@ implanting a sensor and notify users when someone is approaching. Based on the c
 ## Documentation
 
 * [Presentation link](https://docs.google.com/presentation/d/1YCyb71mkqKbpvWqbiAH8k54G2PxhArC0wV-zG1nwdnE/edit#slide=id.g125f36a2a0f_2_17)
+
+# Sensor:
+![alt text](https://github.com/qifanyyy/Boss-Sensor/blob/main/Pictures/sensor.jpg)
+
+# Server UI design:
+![alt text](https://github.com/qifanyyy/Boss-Sensor/blob/main/Pictures/ui_design.jpg)
