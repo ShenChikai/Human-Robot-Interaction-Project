@@ -6,8 +6,9 @@ implanting a sensor and notify users when someone is approaching. Based on the c
 
 | Name       | JHU Email      | GitHub Username |
 | ----       | ---------      | --------------- |
-| Qifan Yu   | qyu24@jhmi.edu |  qifanyyy     |
 | Chikai Shen | shenchikai@outlook.com  |   ShenChikai       |
+| Qifan Yu   | qyu24@jhmi.edu |  qifanyyy     |
+
 
 
 ## Documentation
