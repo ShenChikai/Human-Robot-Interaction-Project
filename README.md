@@ -15,6 +15,3 @@ implanting a sensor and notify users when someone is approaching. Based on the c
 
 # Sensor Connection:
 ![Sensor Connection](https://github.com/qifanyyy/Boss-Sensor/blob/main/Pictures/Connection.png)
-
-# Server UI design:
-![UI design](https://github.com/qifanyyy/Boss-Sensor/blob/main/Pictures/ui_design.jpg)
